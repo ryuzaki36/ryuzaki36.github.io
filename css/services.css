@@ -2012,12 +2012,15 @@ h6 {
 }
 
 .nav-menu a {
-	padding: 6px 10px;
+	padding-top: 6px;
+    padding-right: 20px;
+    
+        
 	text-decoration: none;
 	display: inline-block;
 	color: #fff;
-	font-weight: 400;
-	font-size: 12px;
+	font-weight: 800;
+	font-size: 15px;
 	text-transform: uppercase;
 	outline: none
 }
